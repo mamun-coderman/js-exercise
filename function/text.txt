@@ -1,0 +1,1 @@
+This is function folder. Here we discuss about Javascript function and solve some relevent problem.
